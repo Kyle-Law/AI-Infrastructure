@@ -1,5 +1,7 @@
 # Unit 10 - UFM and Open SM Basic Operational Files
 
+Notes: check the PDF before looking into the video
+
 Outline
 
 * SMconfig files
