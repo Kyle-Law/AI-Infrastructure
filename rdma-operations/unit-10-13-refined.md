@@ -22,7 +22,7 @@ RDMA Write allows a sender to direct data into a specific memory location on the
   * One-Sided: The receiver's software is completely unaware that data is being written.
   * Notification: The sender receives a completion notification, but the receiver usually does not (unless "Write with Immediate" is used).
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Hardware Control: When data arrives, the receiver’s hardware checks Memory Registration (permissions). If valid, it writes the data directly to the specified address.\
 <br>

@@ -2,13 +2,13 @@
 
 ### NVIDIA UFM Dashboard Overview
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 The UFM Dashboard provides a real-time, centralized view of the InfiniBand fabric health, performance, and inventory. It is designed to help administrators "trace the state" of the fabric instantly.
 
 ####
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Fabric Traffic Map (Congestion Tracing)
 
