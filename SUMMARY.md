@@ -53,3 +53,17 @@
   * [Unit 10 - UFM and Open SM Basic Operational Files](ufm/ufm-and-open-subnet-manager-basic-operational-files/unit-10-ufm-and-open-sm-basic-operational-files.md)
   * [Unit 11 - UFM and Open Subnet Manager Basic Operational Files (PDF)](ufm/ufm-and-open-subnet-manager-basic-operational-files/unit-11-ufm-and-open-subnet-manager-basic-operational-files-pdf.md)
 * [Completion Quiz](ufm/completion-quiz.md)
+
+## BlueField DPU Administration
+
+* [Unit 1 - BlueField DPU Overview](bluefield-dpu-administration/unit-1-bluefield-dpu-overview/README.md)
+  * [Quiz](bluefield-dpu-administration/unit-1-bluefield-dpu-overview/quiz.md)
+* [Unit 2 - BlueField DPU Use Cases](bluefield-dpu-administration/unit-2-bluefield-dpu-use-cases.md)
+* [3 - BlueField DPU System Overview](bluefield-dpu-administration/3-bluefield-dpu-system-overview.md)
+* [4 - BlueField DPU Management](bluefield-dpu-administration/4-bluefield-dpu-management.md)
+* [5 - Management with RShim](bluefield-dpu-administration/5-management-with-rshim.md)
+* [6 - Management with BMC](bluefield-dpu-administration/6-management-with-bmc.md)
+* [7 - BlueField Bundle - BFB](bluefield-dpu-administration/7-bluefield-bundle-bfb.md)
+* [8 - Firmware Configuration](bluefield-dpu-administration/8-firmware-configuration.md)
+* [9 - Network Interfaces](bluefield-dpu-administration/9-network-interfaces.md)
+* [10 - DOCA BlueMan Service](bluefield-dpu-administration/10-doca-blueman-service.md)
