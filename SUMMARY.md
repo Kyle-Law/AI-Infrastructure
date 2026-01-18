@@ -58,7 +58,8 @@
 
 * [Unit 1 - BlueField DPU Overview](bluefield-dpu-administration/unit-1-bluefield-dpu-overview/README.md)
   * [Quiz](bluefield-dpu-administration/unit-1-bluefield-dpu-overview/quiz.md)
-* [Unit 2 - BlueField DPU Use Cases](bluefield-dpu-administration/unit-2-bluefield-dpu-use-cases.md)
+* [Unit 2 - BlueField DPU Use Cases](bluefield-dpu-administration/unit-2-bluefield-dpu-use-cases/README.md)
+  * [Quiz](bluefield-dpu-administration/unit-2-bluefield-dpu-use-cases/quiz.md)
 * [3 - BlueField DPU System Overview](bluefield-dpu-administration/3-bluefield-dpu-system-overview.md)
 * [4 - BlueField DPU Management](bluefield-dpu-administration/4-bluefield-dpu-management.md)
 * [5 - Management with RShim](bluefield-dpu-administration/5-management-with-rshim.md)

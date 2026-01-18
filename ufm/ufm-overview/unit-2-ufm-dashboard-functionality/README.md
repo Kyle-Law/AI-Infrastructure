@@ -2,11 +2,11 @@
 
 trace state of ur fabric
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 few examples
 
-<div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="323"><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="323"><figcaption></figcaption></figure></div>
 
 
 
@@ -14,7 +14,7 @@ eg. lot of bandwidth and conggestion, and trafic maps
 
 in 4 tiers, each particularly levels
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1 - servers to leaf switch
 
@@ -24,7 +24,7 @@ in 4 tiers, each particularly levels
 
 4 leaf switch to servers
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 eg. lot of traffic goes to...&#x20;
 
