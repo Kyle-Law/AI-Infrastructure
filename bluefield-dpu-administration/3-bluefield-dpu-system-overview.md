@@ -23,19 +23,19 @@ Objectives
 
 #### BD System Architecture
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 3:18
 
 #### BD Interfaces
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 BlueField-3 DPU System and Interfaces
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -45,7 +45,7 @@ BlueField-3 DPU System and Interfaces
 
 DOCA Usage Mode: SDK and Runtime
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -53,7 +53,7 @@ DOCA Usage Mode: SDK and Runtime
 
 Framework and Development Platform Tailored for BD
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -63,7 +63,7 @@ Framework and Development Platform Tailored for BD
 
 Arm Data System Controls Network Datapath
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -71,7 +71,7 @@ Arm Data System Controls Network Datapath
 
 DPU acts like an adapter card from the perspective of the external host
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
