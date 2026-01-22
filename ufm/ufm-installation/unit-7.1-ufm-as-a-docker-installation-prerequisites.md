@@ -1,6 +1,6 @@
 # Unit 7.1 - UFM as a Docker Installation Prerequisites
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -19,6 +19,7 @@
 ## Demo Center
 
 * [Unit 18 - 24](demo-center/unit-18-24.md)
+* [Completion Quiz](demo-center/completion-quiz.md)
 
 ## UFM
 
@@ -75,3 +76,24 @@
 * [10 - DOCA BlueMan Service](bluefield-dpu-administration/10-doca-blueman-service/README.md)
   * [Quiz](bluefield-dpu-administration/10-doca-blueman-service/quiz.md)
 * [Final Quiz](bluefield-dpu-administration/final-quiz.md)
+
+## Infiniband Network Admin
+
+* [Intro to InfiniBand](infiniband-network-admin/intro-to-infiniband/README.md)
+  * [Summary](infiniband-network-admin/intro-to-infiniband/summary.md)
+* [2 - Intro to InfiniBand Architecture](infiniband-network-admin/2-intro-to-infiniband-architecture/README.md)
+  * [Quiz](infiniband-network-admin/2-intro-to-infiniband-architecture/quiz.md)
+* [3 - Physical Layer](infiniband-network-admin/3-physical-layer.md)
+* [4 - Link Layer](infiniband-network-admin/4-link-layer.md)
+* [5 - Network layer](infiniband-network-admin/5-network-layer.md)
+* [6 - Transport Layer](infiniband-network-admin/6-transport-layer.md)
+* [7 - Upper Layer](infiniband-network-admin/7-upper-layer.md)
+* [8 - Fabric Initialization](infiniband-network-admin/8-fabric-initialization.md)
+* [9 - Fabric Monitoring](infiniband-network-admin/9-fabric-monitoring.md)
+* [10 - Infiniband Topologies](infiniband-network-admin/10-infiniband-topologies.md)
+* [10.2 - Routing Engines](infiniband-network-admin/10.2-routing-engines.md)
+* [11 - DOCA-OFED Driver Installation](infiniband-network-admin/11-doca-ofed-driver-installation.md)
+* [12 - HCA Firmware Upgrade](infiniband-network-admin/12-hca-firmware-upgrade.md)
+* [13 - Running the Subnet Manager](infiniband-network-admin/13-running-the-subnet-manager.md)
+* [14 - InfiniBand Fabric Diagnostic](infiniband-network-admin/14-infiniband-fabric-diagnostic.md)
+* [15 - Capturing InfiniBand Packets with Wireshark](infiniband-network-admin/15-capturing-infiniband-packets-with-wireshark.md)

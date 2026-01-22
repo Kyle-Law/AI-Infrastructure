@@ -89,7 +89,7 @@ What information is listed under "Device Information" when observing a particula
 
 [https://docs.nvidia.com/networking/display/ufmenterpriseumv61914/devices-window#src-4664483667\_DevicesWindow-DeviceInformationTabs](https://docs.nvidia.com/networking/display/ufmenterpriseumv61914/devices-window#src-4664483667_DevicesWindow-DeviceInformationTabs)<br>
 
-<figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Question 9
 

@@ -59,7 +59,7 @@ once tenant lifecycle, UFM receive naother notification from ML2 plugin
 
 
 
-![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)&#x20;
+![](<../../.gitbook/assets/image (8) (1) (1) (1) (1).png>)&#x20;
 
 
 
