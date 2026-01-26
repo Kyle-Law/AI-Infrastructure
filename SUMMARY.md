@@ -98,3 +98,4 @@
 * [13 - Running the Subnet Manager](infiniband-network-admin/13-running-the-subnet-manager.md)
 * [14 - InfiniBand Fabric Diagnostic](infiniband-network-admin/14-infiniband-fabric-diagnostic.md)
 * [15 - Capturing InfiniBand Packets with Wireshark](infiniband-network-admin/15-capturing-infiniband-packets-with-wireshark.md)
+* [5 Layers Architecture](infiniband-network-admin/5-layers-architecture.md)

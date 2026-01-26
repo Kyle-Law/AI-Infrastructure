@@ -8,7 +8,7 @@ The UFM Dashboard provides a real-time, centralized view of the InfiniBand fabri
 
 ####
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Fabric Traffic Map (Congestion Tracing)
 
