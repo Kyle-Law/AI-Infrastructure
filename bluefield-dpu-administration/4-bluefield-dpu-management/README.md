@@ -18,7 +18,7 @@ DOCA - a complete software environment that includes host-side software and DPU-
 
 #### DOCA OS Profiles
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -28,7 +28,7 @@ DOCA - a complete software environment that includes host-side software and DPU-
 
 
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

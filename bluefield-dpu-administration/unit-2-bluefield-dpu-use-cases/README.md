@@ -52,7 +52,7 @@ microservice architecture - generate intensive data movements primaryily go EW
 
 #### SR-IOV
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 trigger many API calls,&#x20;
 
@@ -86,7 +86,7 @@ enable multiple virtual instance
 
 NVIDIA OVS-DOCA
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
